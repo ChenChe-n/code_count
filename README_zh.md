@@ -43,7 +43,7 @@
 - Python 3.6+
 - 依赖包:
   - `rich` >= 10.0.0
-  - `chardet` >= 4.0.0
+  - `charset-normalizer` >= 2.0.0
 
 ## 安装步骤
 
@@ -56,7 +56,7 @@
    或者分别安装:
    ```bash
    pip install rich>=10.0.0
-   pip install chardet>=4.0.0
+   pip install charset-normalizer>=2.0.0
    ```
 
 ## 使用方法

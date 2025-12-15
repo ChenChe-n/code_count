@@ -43,7 +43,7 @@ A powerful code line counting tool that supports multiple programming languages 
 - Python 3.6+
 - Dependencies:
   - `rich` >= 10.0.0
-  - `chardet` >= 4.0.0
+  - `charset-normalizer` >= 2.0.0
 
 ## Installation
 
@@ -56,7 +56,7 @@ A powerful code line counting tool that supports multiple programming languages 
    Or install separately:
    ```bash
    pip install rich>=10.0.0
-   pip install chardet>=4.0.0
+   pip install charset-normalizer>=2.0.0
    ```
 
 ## Usage
